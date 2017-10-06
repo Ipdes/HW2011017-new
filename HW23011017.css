@@ -1,0 +1,12 @@
+body { 
+    font-size: 100%; 
+    font-family: sans-serif; 
+       }
+.cite {
+    text-align: center;
+    color: aqua;
+    text-decoration: underline;
+}
+p {
+    margin-left: auto 
+}
