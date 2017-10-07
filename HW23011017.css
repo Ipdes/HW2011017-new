@@ -8,5 +8,6 @@ body {
     text-decoration: underline;
 }
 p {
-    margin-left: auto 
+    margin-left: auto;
+    text-indent: 30px;
 }
